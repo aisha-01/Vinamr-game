@@ -1,1 +1,1 @@
-# Vinamr-game
+# MyOwnInfiniteRunner
